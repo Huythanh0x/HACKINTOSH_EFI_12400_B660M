@@ -1,5 +1,8 @@
 # OPENCORE EFI for GIGABYTE B660M DS3H and INTEL I5 12400 - Sonoma
-![Geekbench](screenshot.png)
+
+| ![screenshot](screenshot.png) | 
+|:--:| 
+| More detailed at [Geekbench report](https://browser.geekbench.com/v6/cpu/7613482) |
 
 ### Specs:
 
@@ -42,4 +45,4 @@ I didn't build this EFI on my own. I just chose and built my hardware specs base
 **Update 2**: I also pick some variables from [another EFI - Sonoma](https://github.com/psabadac/GIGABYTE-B660M-DS3H-DDR4-i7-13700F-Hackintosh-OpenCore). To update to Sonoma.
 
 **Update 3**: I added support for my wireless card Intel Ax210 following [this guide](https://github.com/perez987/Intel-AX210-wifi6-on-macOS-Sonoma).\
-*`SecureBootModel` shouldn't stay `Disabled` or your PC would be **panic*** 
+*`SecureBootModel` should stay `Disabled` or your PC would be **panic*** 
