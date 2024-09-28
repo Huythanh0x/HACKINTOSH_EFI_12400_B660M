@@ -915,13 +915,13 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>Builtin</string>
+			<string>External</string>
 			<key>PickerVariant</key>
 			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
-			<key>ShowPicker</key>
 			<true/>
+			<key>ShowPicker</key>
+			<false/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -1187,7 +1187,7 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TN8YTHX87</string>
+			<string>Generate your own with GenSMBIOS</string>
 			<key>SystemUUID</key>
 			<string>7EF8FD8F-0653-41EC-BAC6-EA2B06A5A7BF</string>
 		</dict>
